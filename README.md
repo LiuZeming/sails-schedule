@@ -1,4 +1,4 @@
 sails_schedule
 ==============
 
-a sails  schedule plugin
+a sails schedule plugin
