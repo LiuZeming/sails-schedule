@@ -1,0 +1,32 @@
+{
+  "name": "sails-schedule",
+  "version": "1.0.1",
+  "description": "Sails Schedule for Sails.js",
+  "main": "",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "sails",
+    "schedule",
+    "crontab"
+  ],
+  "contributors": [
+    {
+      "name": "Leo",
+      "email": "lzm1093038078@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LiuZeming/sails-schedule.git"
+  },
+  "dependencies": {
+    "node-schedule": "0.1.13"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
